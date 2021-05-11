@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manish Sai Inala
 - 👀 I’m interested in Mechanical Engineering and the code implementing the real world engineering problems. 
 - 🌱 I’m currently learning OpenCV and Robotic Operating System in developing autonomous robot
-- 💞️ I’m looking to collaborate who have similar interets and are willing to spare some free time. 
+- 👥 I’m looking to collaborate who have similar interets and are willing to spare some free time. 
 - 📫 How to reach me is through[ LinkedIn ](https://www.linkedin.com/in/manishinala)
 - 😄 Pronouns: ... He/Him/They/Them
 
